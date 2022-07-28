@@ -1,0 +1,22 @@
+body {background: url(Ress/paper.jpg) no-repeat center fixed;
+    background-size: cover;}
+
+/** BANNIERE **/
+
+    #imgban {max-width: 100%;
+    text-align: center;
+height: auto;}
+
+/** BUTTON **/
+
+#divbutton {
+    max-width: 100%; height: auto;
+    text-align: center; padding-bottom: 25px;}
+
+
+#butimg {max-width: 250px; height: auto; text-align: center; padding-right: 100px; 
+    }
+
+#butimg1 {max-width: 100%; height: auto;}
+
+#butimg:hover {cursor: url("Ress/curs.png"), auto;}
